@@ -1,0 +1,16 @@
+{
+  "name": "indexer",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "boardgamegeekclient": "^1.9.1",
+    "breadroll": "^0.4.1",
+    "html-entities": "^2.5.2"
+  }
+}
